@@ -1,0 +1,12 @@
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\bin\Debug\KitchenForm.exe.config
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\bin\Debug\KitchenForm.exe
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\bin\Debug\KitchenForm.pdb
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\bin\Debug\SimpleTCP.dll
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\obj\Debug\KitchenForm.csproj.AssemblyReference.cache
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\obj\Debug\KitchenForm.Form1.resources
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\obj\Debug\KitchenForm.Properties.Resources.resources
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\obj\Debug\KitchenForm.csproj.GenerateResource.cache
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\obj\Debug\KitchenForm.csproj.CoreCompileInputs.cache
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\obj\Debug\KitchenForm.csproj.CopyComplete
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\obj\Debug\KitchenForm.exe
+C:\Users\Betül\source\repos\KitchenForm\KitchenForm\obj\Debug\KitchenForm.pdb
